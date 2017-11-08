@@ -1,0 +1,22 @@
+/* Coolors Exported Palette - coolors.co/065143-129490-70b77e-ffb73d-af3f3f */
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700|Rozha+One");
+/* RGB */
+/* FONTS */
+.App {
+  text-align: center; }
+
+.App-logo {
+  height: 80px; }
+
+.App-header {
+  background-color: #192e2f;
+  height: 150px;
+  padding: 20px;
+  color: white; }
+
+.App-title {
+  font-family: "Rozha One", serif;
+  font-size: 1.5em; }
+
+.App-intro {
+  font-size: large; }
